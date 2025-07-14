@@ -1,18 +1,18 @@
 {
 	"head": {
-		"title": "SimonAKing",
-		"description": "Author:SimonAKing,Category:Personal Blog",
+		"title": "amoorzheyu",
+		"description": "Author:amoorzheyu,Category:Personal Blog",
 		"favicon": "favicon.ico"
 	},
 	"intro": {
-		"title": "SimonAKing",
-		"subtitle": "Front back left right end engineer",
+		"title": "amoorzheyu",
+		"subtitle": "Hardware engineer with software development skills.",
 		"enter": "enter",
 		"supportAuthor": true,
 		"background": true
 	},
 	"main": {
-		"name": "SimonAKing",
+		"name": "amoorzheyu",
 		"signature": "Code & Input & Output",
 		"avatar": {
 			"link": "assets/avatar.jpg",
@@ -21,24 +21,24 @@
 		},
 		"ul": {
 			"first": {
-				"href": "blog/",
+				"href": "https://szcyyds.blog.csdn.net/",
 				"icon": "bokeyuan",
 				"text": "Blog"
 			},
 			"second": {
-				"href": "about/",
-				"icon": "xiaolian",
-				"text": "About"
-			},
-			"third": {
-				"href": "mailto:simon@tomotoes.com",
-				"icon": "email",
-				"text": "Email"
-			},
-			"fourth": {
-				"href": "https://github.com/tomotoes",
+				"href": "https://github.com/amoorzheyu/",
 				"icon": "github",
 				"text": "Github"
+			},
+			"third": {
+				"href": "https://i.csdn.net/#/msg/chat/m0_73756108",
+				"icon": "sixin",
+				"text": "Chat"
+			},
+			"fourth": {
+				"href": "mailto:szc8848@qq.com",
+				"icon": "email",
+				"text": "Email"
 			}
 		}
 	}
